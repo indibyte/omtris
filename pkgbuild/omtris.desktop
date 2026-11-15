@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=Omtris
+GenericName=Falling Block Game
+GenericName[da]=Faldende blokke
+GenericName[de]=Blockfall-Spiel
+Comment=A falling-block game that follows the Omarchy theme
+Comment[da]=Et spil med faldende blokke, der følger Omarchy-temaet
+Comment[de]=Ein Blockfall-Spiel, das dem Omarchy-Theme folgt
+Exec=omtris %f
+Icon=omtris
+Terminal=false
+Categories=Game;ArcadeGame;
+StartupWMClass=omtris
